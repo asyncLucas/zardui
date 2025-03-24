@@ -53,4 +53,8 @@ export const SIDEBAR_PATHS = [
     name: 'Input',
     path: '/components/input',
   },
+  {
+    name: 'Tooltip',
+    path: '/components/tooltip',
+  },
 ];
